@@ -1,0 +1,1477 @@
+District,Year,Month,Visitors
+Adilabad,2020,January,23423.0
+Adilabad,2020,February,34564.0
+Adilabad,2020,March,4534.0
+Adilabad,2020,April,3242.0
+Adilabad,2020,May,56456.0
+Adilabad,2020,June,34.0
+Adilabad,2020,July,54.0
+Adilabad,2020,August,242.0
+Adilabad,2020,September,6456.0
+Adilabad,2020,October,234.0
+Adilabad,2020,November,23425.0
+Adilabad,2020,December,2343.0
+Adilabad,2021,January,3210.0
+Adilabad,2021,February,8765.0
+Adilabad,2021,March,4321.0
+Adilabad,2021,April,1987.0
+Adilabad,2021,May,6543.0
+Adilabad,2021,June,3210.0
+Adilabad,2021,July,8765.0
+Adilabad,2021,August,4321.0
+Adilabad,2021,September,1987.0
+Adilabad,2021,October,6543.0
+Adilabad,2021,November,3210.0
+Adilabad,2021,December,8765.0
+Adilabad,2022,January,3210.0
+Adilabad,2022,February,2.0
+Adilabad,2022,March,8765.0
+Adilabad,2022,April,4321.0
+Adilabad,2022,May,1987.0
+Adilabad,2022,June,6543.0
+Adilabad,2022,July,3210.0
+Adilabad,2022,August,8765.0
+Adilabad,2022,September,4321.0
+Adilabad,2022,October,1987.0
+Adilabad,2022,November,6543.0
+Adilabad,2022,December,3210.0
+Bhadradri Kothagudem,2020,January,7655.0
+Bhadradri Kothagudem,2020,February,45.0
+Bhadradri Kothagudem,2020,March,75.0
+Bhadradri Kothagudem,2020,April,34.0
+Bhadradri Kothagudem,2020,May,11.0
+Bhadradri Kothagudem,2020,June,3537.0
+Bhadradri Kothagudem,2020,July,6753.0
+Bhadradri Kothagudem,2020,August,3564.0
+Bhadradri Kothagudem,2020,September,234.0
+Bhadradri Kothagudem,2020,October,2342.0
+Bhadradri Kothagudem,2020,November,2356.0
+Bhadradri Kothagudem,2020,December,3434.0
+Bhadradri Kothagudem,2021,January,4321.0
+Bhadradri Kothagudem,2021,February,1987.0
+Bhadradri Kothagudem,2021,March,6543.0
+Bhadradri Kothagudem,2021,April,3210.0
+Bhadradri Kothagudem,2021,May,8765.0
+Bhadradri Kothagudem,2021,June,4321.0
+Bhadradri Kothagudem,2021,July,1987.0
+Bhadradri Kothagudem,2021,August,6543.0
+Bhadradri Kothagudem,2021,September,3210.0
+Bhadradri Kothagudem,2021,October,8765.0
+Bhadradri Kothagudem,2021,November,4321.0
+Bhadradri Kothagudem,2021,December,1987.0
+Bhadradri Kothagudem,2022,January,8765.0
+Bhadradri Kothagudem,2022,February,4321.0
+Bhadradri Kothagudem,2022,March,1987.0
+Bhadradri Kothagudem,2022,April,6543.0
+Bhadradri Kothagudem,2022,May,3210.0
+Bhadradri Kothagudem,2022,June,8765.0
+Bhadradri Kothagudem,2022,July,4321.0
+Bhadradri Kothagudem,2022,August,1987.0
+Bhadradri Kothagudem,2022,September,6543.0
+Bhadradri Kothagudem,2022,October,3210.0
+Bhadradri Kothagudem,2022,November,8765.0
+Bhadradri Kothagudem,2022,December,4321.0
+Hyderabad,2020,January,25174.0
+Hyderabad,2020,February,16521.0
+Hyderabad,2020,March,3724.0
+Hyderabad,2020,April,9344.0
+Hyderabad,2020,May,1121.0
+Hyderabad,2020,June,3533.0
+Hyderabad,2020,July,8916.0
+Hyderabad,2020,August,6588.0
+Hyderabad,2020,September,6.0
+Hyderabad,2020,October,76.0
+Hyderabad,2020,November,128.0
+Hyderabad,2020,December,230.0
+Hyderabad,2021,January,0.0
+Hyderabad,2021,February,0.0
+Hyderabad,2021,March,0.0
+Hyderabad,2021,April,0.0
+Hyderabad,2021,May,0.0
+Hyderabad,2021,June,0.0
+Hyderabad,2021,July,0.0
+Hyderabad,2021,August,0.0
+Hyderabad,2021,September,0.0
+Hyderabad,2021,October,0.0
+Hyderabad,2021,November,0.0
+Hyderabad,2021,December,0.0
+Hyderabad,2022,January,0.0
+Hyderabad,2022,February,0.0
+Hyderabad,2022,March,0.0
+Hyderabad,2022,April,0.0
+Hyderabad,2022,May,0.0
+Hyderabad,2022,June,0.0
+Hyderabad,2022,July,0.0
+Hyderabad,2022,August,0.0
+Hyderabad,2022,September,0.0
+Hyderabad,2022,October,0.0
+Hyderabad,2022,November,0.0
+Hyderabad,2022,December,0.0
+Jagtial,2020,January,34535.0
+Jagtial,2020,February,765.0
+Jagtial,2020,March,868.0
+Jagtial,2020,April,335.0
+Jagtial,2020,May,76.0
+Jagtial,2020,June,35.0
+Jagtial,2020,July,223.0
+Jagtial,2020,August,64.0
+Jagtial,2020,September,464.0
+Jagtial,2020,October,855.0
+Jagtial,2020,November,463.0
+Jagtial,2020,December,234.0
+Jagtial,2021,January,6543.0
+Jagtial,2021,February,3210.0
+Jagtial,2021,March,8765.0
+Jagtial,2021,April,4321.0
+Jagtial,2021,May,1987.0
+Jagtial,2021,June,6543.0
+Jagtial,2021,July,3210.0
+Jagtial,2021,August,8765.0
+Jagtial,2021,September,4321.0
+Jagtial,2021,October,1987.0
+Jagtial,2021,November,6543.0
+Jagtial,2021,December,3210.0
+Jagtial,2022,January,4321.0
+Jagtial,2022,February,1987.0
+Jagtial,2022,March,6543.0
+Jagtial,2022,April,3210.0
+Jagtial,2022,May,8765.0
+Jagtial,2022,June,4321.0
+Jagtial,2022,July,1987.0
+Jagtial,2022,August,6543.0
+Jagtial,2022,September,3210.0
+Jagtial,2022,October,8765.0
+Jagtial,2022,November,4321.0
+Jagtial,2022,December,1987.0
+Jangaon,2020,January,24.0
+Jangaon,2020,February,46.0
+Jangaon,2020,March,335.0
+Jangaon,2020,April,68.0
+Jangaon,2020,May,4562.0
+Jangaon,2020,June,675.0
+Jangaon,2020,July,3533.0
+Jangaon,2020,August,2424.0
+Jangaon,2020,September,34667.0
+Jangaon,2020,October,58567.0
+Jangaon,2020,November,6464.0
+Jangaon,2020,December,46464.0
+Jangaon,2021,January,8765.0
+Jangaon,2021,February,4321.0
+Jangaon,2021,March,1987.0
+Jangaon,2021,April,6543.0
+Jangaon,2021,May,3210.0
+Jangaon,2021,June,8765.0
+Jangaon,2021,July,4321.0
+Jangaon,2021,August,1987.0
+Jangaon,2021,September,6543.0
+Jangaon,2021,October,3210.0
+Jangaon,2021,November,8765.0
+Jangaon,2021,December,4321.0
+Jangaon,2022,January,6543.0
+Jangaon,2022,February,3210.0
+Jangaon,2022,March,8765.0
+Jangaon,2022,April,4321.0
+Jangaon,2022,May,1987.0
+Jangaon,2022,June,6543.0
+Jangaon,2022,July,3210.0
+Jangaon,2022,August,8765.0
+Jangaon,2022,September,4321.0
+Jangaon,2022,October,1987.0
+Jangaon,2022,November,6543.0
+Jangaon,2022,December,3210.0
+Jayashankar Bhoopalpally,2020,January,4654.0
+Jayashankar Bhoopalpally,2020,February,45345.0
+Jayashankar Bhoopalpally,2020,March,3547.0
+Jayashankar Bhoopalpally,2020,April,4.0
+Jayashankar Bhoopalpally,2020,May,5.0
+Jayashankar Bhoopalpally,2020,June,76.0
+Jayashankar Bhoopalpally,2020,July,345.0
+Jayashankar Bhoopalpally,2020,August,456.0
+Jayashankar Bhoopalpally,2020,September,345.0
+Jayashankar Bhoopalpally,2020,October,234.0
+Jayashankar Bhoopalpally,2020,November,76.0
+Jayashankar Bhoopalpally,2020,December,45.0
+Jayashankar Bhoopalpally,2021,January,1987.0
+Jayashankar Bhoopalpally,2021,February,6543.0
+Jayashankar Bhoopalpally,2021,March,3210.0
+Jayashankar Bhoopalpally,2021,April,8765.0
+Jayashankar Bhoopalpally,2021,May,4321.0
+Jayashankar Bhoopalpally,2021,June,1987.0
+Jayashankar Bhoopalpally,2021,July,6543.0
+Jayashankar Bhoopalpally,2021,August,3210.0
+Jayashankar Bhoopalpally,2021,September,8765.0
+Jayashankar Bhoopalpally,2021,October,4321.0
+Jayashankar Bhoopalpally,2021,November,1987.0
+Jayashankar Bhoopalpally,2021,December,6543.0
+Jayashankar Bhoopalpally,2022,January,8765.0
+Jayashankar Bhoopalpally,2022,February,4321.0
+Jayashankar Bhoopalpally,2022,March,1987.0
+Jayashankar Bhoopalpally,2022,April,6543.0
+Jayashankar Bhoopalpally,2022,May,3210.0
+Jayashankar Bhoopalpally,2022,June,8765.0
+Jayashankar Bhoopalpally,2022,July,4321.0
+Jayashankar Bhoopalpally,2022,August,1987.0
+Jayashankar Bhoopalpally,2022,September,6543.0
+Jayashankar Bhoopalpally,2022,October,3210.0
+Jayashankar Bhoopalpally,2022,November,8765.0
+Jayashankar Bhoopalpally,2022,December,4321.0
+Jogulamba Gadwal,2020,January,36.0
+Jogulamba Gadwal,2020,February,6.0
+Jogulamba Gadwal,2020,March,3.0
+Jogulamba Gadwal,2020,April,665.0
+Jogulamba Gadwal,2020,May,34.0
+Jogulamba Gadwal,2020,June,12.0
+Jogulamba Gadwal,2020,July,24.0
+Jogulamba Gadwal,2020,August,4546.0
+Jogulamba Gadwal,2020,September,6456.0
+Jogulamba Gadwal,2020,October,3223.0
+Jogulamba Gadwal,2020,November,869.0
+Jogulamba Gadwal,2020,December,5345.0
+Jogulamba Gadwal,2021,January,3210.0
+Jogulamba Gadwal,2021,February,8765.0
+Jogulamba Gadwal,2021,March,4321.0
+Jogulamba Gadwal,2021,April,1987.0
+Jogulamba Gadwal,2021,May,6543.0
+Jogulamba Gadwal,2021,June,3210.0
+Jogulamba Gadwal,2021,July,8765.0
+Jogulamba Gadwal,2021,August,4321.0
+Jogulamba Gadwal,2021,September,1987.0
+Jogulamba Gadwal,2021,October,6543.0
+Jogulamba Gadwal,2021,November,3210.0
+Jogulamba Gadwal,2021,December,8765.0
+Jogulamba Gadwal,2022,January,1987.0
+Jogulamba Gadwal,2022,February,6543.0
+Jogulamba Gadwal,2022,March,3210.0
+Jogulamba Gadwal,2022,April,8765.0
+Jogulamba Gadwal,2022,May,4321.0
+Jogulamba Gadwal,2022,June,1987.0
+Jogulamba Gadwal,2022,July,6543.0
+Jogulamba Gadwal,2022,August,3210.0
+Jogulamba Gadwal,2022,September,8765.0
+Jogulamba Gadwal,2022,October,4321.0
+Jogulamba Gadwal,2022,November,1987.0
+Jogulamba Gadwal,2022,December,6543.0
+Kamareddy,2020,January,3453.0
+Kamareddy,2020,February,56756.0
+Kamareddy,2020,March,87564.0
+Kamareddy,2020,April,3452.0
+Kamareddy,2020,May,3456.0
+Kamareddy,2020,June,3543.0
+Kamareddy,2020,July,5647.0
+Kamareddy,2020,August,223.0
+Kamareddy,2020,September,34.0
+Kamareddy,2020,October,34.0
+Kamareddy,2020,November,656.0
+Kamareddy,2020,December,5763.0
+Kamareddy,2021,January,4321.0
+Kamareddy,2021,February,1987.0
+Kamareddy,2021,March,6543.0
+Kamareddy,2021,April,3210.0
+Kamareddy,2021,May,8765.0
+Kamareddy,2021,June,4321.0
+Kamareddy,2021,July,1987.0
+Kamareddy,2021,August,6543.0
+Kamareddy,2021,September,3210.0
+Kamareddy,2021,October,8765.0
+Kamareddy,2021,November,4321.0
+Kamareddy,2021,December,1987.0
+Kamareddy,2022,January,3210.0
+Kamareddy,2022,February,8765.0
+Kamareddy,2022,March,4321.0
+Kamareddy,2022,April,1987.0
+Kamareddy,2022,May,6543.0
+Kamareddy,2022,June,3210.0
+Kamareddy,2022,July,8765.0
+Kamareddy,2022,August,4321.0
+Kamareddy,2022,September,1987.0
+Kamareddy,2022,October,6543.0
+Kamareddy,2022,November,3210.0
+Kamareddy,2022,December,8765.0
+Karimnagar,2020,January,334.0
+Karimnagar,2020,February,754.0
+Karimnagar,2020,March,345.0
+Karimnagar,2020,April,67.0
+Karimnagar,2020,May,6744.0
+Karimnagar,2020,June,6575.0
+Karimnagar,2020,July,900.0
+Karimnagar,2020,August,78.0
+Karimnagar,2020,September,90.0
+Karimnagar,2020,October,79.0
+Karimnagar,2020,November,675.0
+Karimnagar,2020,December,4521.0
+Karimnagar,2021,January,6543.0
+Karimnagar,2021,February,3210.0
+Karimnagar,2021,March,8765.0
+Karimnagar,2021,April,4321.0
+Karimnagar,2021,May,1987.0
+Karimnagar,2021,June,6543.0
+Karimnagar,2021,July,3210.0
+Karimnagar,2021,August,8765.0
+Karimnagar,2021,September,4321.0
+Karimnagar,2021,October,1987.0
+Karimnagar,2021,November,6543.0
+Karimnagar,2021,December,3210.0
+Karimnagar,2022,January,4321.0
+Karimnagar,2022,February,1987.0
+Karimnagar,2022,March,6543.0
+Karimnagar,2022,April,3210.0
+Karimnagar,2022,May,8765.0
+Karimnagar,2022,June,4321.0
+Karimnagar,2022,July,1987.0
+Karimnagar,2022,August,6543.0
+Karimnagar,2022,September,3210.0
+Karimnagar,2022,October,8765.0
+Karimnagar,2022,November,4321.0
+Karimnagar,2022,December,1987.0
+Khammam,2020,January,7842.0
+Khammam,2020,February,2319.0
+Khammam,2020,March,5678.0
+Khammam,2020,April,9123.0
+Khammam,2020,May,3456.0
+Khammam,2020,June,6789.0
+Khammam,2020,July,1234.0
+Khammam,2020,August,8901.0
+Khammam,2020,September,4567.0
+Khammam,2020,October,2345.0
+Khammam,2020,November,7890.0
+Khammam,2020,December,5432.0
+Khammam,2021,January,8765.0
+Khammam,2021,February,4321.0
+Khammam,2021,March,1987.0
+Khammam,2021,April,6543.0
+Khammam,2021,May,3210.0
+Khammam,2021,June,8765.0
+Khammam,2021,July,4321.0
+Khammam,2021,August,1987.0
+Khammam,2021,September,6543.0
+Khammam,2021,October,3210.0
+Khammam,2021,November,8765.0
+Khammam,2021,December,4321.0
+Khammam,2022,January,6543.0
+Khammam,2022,February,3210.0
+Khammam,2022,March,8765.0
+Khammam,2022,April,4321.0
+Khammam,2022,May,1987.0
+Khammam,2022,June,6543.0
+Khammam,2022,July,3210.0
+Khammam,2022,August,8765.0
+Khammam,2022,September,4321.0
+Khammam,2022,October,1987.0
+Khammam,2022,November,6543.0
+Khammam,2022,December,3210.0
+Komaram Bheem Asifabad,2020,January,9876.0
+Komaram Bheem Asifabad,2020,February,6543.0
+Komaram Bheem Asifabad,2020,March,3210.0
+Komaram Bheem Asifabad,2020,April,8765.0
+Komaram Bheem Asifabad,2020,May,4321.0
+Komaram Bheem Asifabad,2020,June,1987.0
+Komaram Bheem Asifabad,2020,July,6543.0
+Komaram Bheem Asifabad,2020,August,3210.0
+Komaram Bheem Asifabad,2020,September,8765.0
+Komaram Bheem Asifabad,2020,October,4321.0
+Komaram Bheem Asifabad,2020,November,1987.0
+Komaram Bheem Asifabad,2020,December,6543.0
+Komaram Bheem Asifabad,2021,January,1987.0
+Komaram Bheem Asifabad,2021,February,6543.0
+Komaram Bheem Asifabad,2021,March,3210.0
+Komaram Bheem Asifabad,2021,April,8765.0
+Komaram Bheem Asifabad,2021,May,4321.0
+Komaram Bheem Asifabad,2021,June,1987.0
+Komaram Bheem Asifabad,2021,July,6543.0
+Komaram Bheem Asifabad,2021,August,3210.0
+Komaram Bheem Asifabad,2021,September,8765.0
+Komaram Bheem Asifabad,2021,October,4321.0
+Komaram Bheem Asifabad,2021,November,1987.0
+Komaram Bheem Asifabad,2021,December,6543.0
+Komaram Bheem Asifabad,2022,January,8765.0
+Komaram Bheem Asifabad,2022,February,4321.0
+Komaram Bheem Asifabad,2022,March,1987.0
+Komaram Bheem Asifabad,2022,April,6543.0
+Komaram Bheem Asifabad,2022,May,3210.0
+Komaram Bheem Asifabad,2022,June,8765.0
+Komaram Bheem Asifabad,2022,July,4321.0
+Komaram Bheem Asifabad,2022,August,1987.0
+Komaram Bheem Asifabad,2022,September,6543.0
+Komaram Bheem Asifabad,2022,October,3210.0
+Komaram Bheem Asifabad,2022,November,8765.0
+Komaram Bheem Asifabad,2022,December,4321.0
+Mahabubabad,2020,January,3210.0
+Mahabubabad,2020,February,8765.0
+Mahabubabad,2020,March,4321.0
+Mahabubabad,2020,April,1987.0
+Mahabubabad,2020,May,6543.0
+Mahabubabad,2020,June,3210.0
+Mahabubabad,2020,July,8765.0
+Mahabubabad,2020,August,4321.0
+Mahabubabad,2020,September,1987.0
+Mahabubabad,2020,October,6543.0
+Mahabubabad,2020,November,3210.0
+Mahabubabad,2020,December,8765.0
+Mahabubabad,2021,January,3210.0
+Mahabubabad,2021,February,8765.0
+Mahabubabad,2021,March,4321.0
+Mahabubabad,2021,April,1987.0
+Mahabubabad,2021,May,6543.0
+Mahabubabad,2021,June,3210.0
+Mahabubabad,2021,July,8765.0
+Mahabubabad,2021,August,4321.0
+Mahabubabad,2021,September,1987.0
+Mahabubabad,2021,October,6543.0
+Mahabubabad,2021,November,3210.0
+Mahabubabad,2021,December,8765.0
+Mahabubabad,2022,January,1987.0
+Mahabubabad,2022,February,6543.0
+Mahabubabad,2022,March,3210.0
+Mahabubabad,2022,April,8765.0
+Mahabubabad,2022,May,4321.0
+Mahabubabad,2022,June,1987.0
+Mahabubabad,2022,July,6543.0
+Mahabubabad,2022,August,3210.0
+Mahabubabad,2022,September,8765.0
+Mahabubabad,2022,October,4321.0
+Mahabubabad,2022,November,1987.0
+Mahabubabad,2022,December,6543.0
+Mahbubnagar,2020,January,45.0
+Mahbubnagar,2020,February,29.0
+Mahbubnagar,2020,March,4321.0
+Mahbubnagar,2020,April,1987.0
+Mahbubnagar,2020,May,6543.0
+Mahbubnagar,2020,June,3210.0
+Mahbubnagar,2020,July,8765.0
+Mahbubnagar,2020,August,4321.0
+Mahbubnagar,2020,September,1987.0
+Mahbubnagar,2020,October,6543.0
+Mahbubnagar,2020,November,3210.0
+Mahbubnagar,2020,December,8765.0
+Mahbubnagar,2021,January,0.0
+Mahbubnagar,2021,February,0.0
+Mahbubnagar,2021,March,0.0
+Mahbubnagar,2021,April,0.0
+Mahbubnagar,2021,May,0.0
+Mahbubnagar,2021,June,0.0
+Mahbubnagar,2021,July,0.0
+Mahbubnagar,2021,August,0.0
+Mahbubnagar,2021,September,0.0
+Mahbubnagar,2021,October,0.0
+Mahbubnagar,2021,November,0.0
+Mahbubnagar,2021,December,0.0
+Mahbubnagar,2022,January,3210.0
+Mahbubnagar,2022,February,8765.0
+Mahbubnagar,2022,March,4321.0
+Mahbubnagar,2022,April,1987.0
+Mahbubnagar,2022,May,6543.0
+Mahbubnagar,2022,June,3210.0
+Mahbubnagar,2022,July,8765.0
+Mahbubnagar,2022,August,4321.0
+Mahbubnagar,2022,September,1987.0
+Mahbubnagar,2022,October,6543.0
+Mahbubnagar,2022,November,3210.0
+Mahbubnagar,2022,December,8765.0
+Mancherial,2020,January,4321.0
+Mancherial,2020,February,1987.0
+Mancherial,2020,March,6543.0
+Mancherial,2020,April,3210.0
+Mancherial,2020,May,8765.0
+Mancherial,2020,June,4321.0
+Mancherial,2020,July,1987.0
+Mancherial,2020,August,6543.0
+Mancherial,2020,September,3210.0
+Mancherial,2020,October,8765.0
+Mancherial,2020,November,4321.0
+Mancherial,2020,December,1987.0
+Mancherial,2021,January,6543.0
+Mancherial,2021,February,3210.0
+Mancherial,2021,March,8765.0
+Mancherial,2021,April,4321.0
+Mancherial,2021,May,1987.0
+Mancherial,2021,June,6543.0
+Mancherial,2021,July,3210.0
+Mancherial,2021,August,8765.0
+Mancherial,2021,September,4321.0
+Mancherial,2021,October,1987.0
+Mancherial,2021,November,6543.0
+Mancherial,2021,December,3210.0
+Mancherial,2022,January,4321.0
+Mancherial,2022,February,1987.0
+Mancherial,2022,March,6543.0
+Mancherial,2022,April,3210.0
+Mancherial,2022,May,8765.0
+Mancherial,2022,June,4321.0
+Mancherial,2022,July,1987.0
+Mancherial,2022,August,6543.0
+Mancherial,2022,September,3210.0
+Mancherial,2022,October,8765.0
+Mancherial,2022,November,4321.0
+Mancherial,2022,December,1987.0
+Medak,2020,January,6543.0
+Medak,2020,February,3210.0
+Medak,2020,March,8765.0
+Medak,2020,April,4321.0
+Medak,2020,May,1987.0
+Medak,2020,June,6543.0
+Medak,2020,July,3210.0
+Medak,2020,August,8765.0
+Medak,2020,September,4321.0
+Medak,2020,October,1987.0
+Medak,2020,November,6543.0
+Medak,2020,December,3210.0
+Medak,2021,January,8765.0
+Medak,2021,February,4321.0
+Medak,2021,March,1987.0
+Medak,2021,April,6543.0
+Medak,2021,May,3210.0
+Medak,2021,June,8765.0
+Medak,2021,July,4321.0
+Medak,2021,August,1987.0
+Medak,2021,September,6543.0
+Medak,2021,October,3210.0
+Medak,2021,November,8765.0
+Medak,2021,December,4321.0
+Medak,2022,January,6543.0
+Medak,2022,February,3210.0
+Medak,2022,March,8765.0
+Medak,2022,April,4321.0
+Medak,2022,May,1987.0
+Medak,2022,June,6543.0
+Medak,2022,July,3210.0
+Medak,2022,August,8765.0
+Medak,2022,September,4321.0
+Medak,2022,October,1987.0
+Medak,2022,November,6543.0
+Medak,2022,December,3210.0
+Medchal,2020,January,8765.0
+Medchal,2020,February,4321.0
+Medchal,2020,March,1987.0
+Medchal,2020,April,6543.0
+Medchal,2020,May,3210.0
+Medchal,2020,June,8765.0
+Medchal,2020,July,4321.0
+Medchal,2020,August,1987.0
+Medchal,2020,September,6543.0
+Medchal,2020,October,3210.0
+Medchal,2020,November,8765.0
+Medchal,2020,December,4321.0
+Medchal,2021,January,0.0
+Medchal,2021,February,0.0
+Medchal,2021,March,0.0
+Medchal,2021,April,0.0
+Medchal,2021,May,0.0
+Medchal,2021,June,0.0
+Medchal,2021,July,0.0
+Medchal,2021,August,0.0
+Medchal,2021,September,0.0
+Medchal,2021,October,0.0
+Medchal,2021,November,0.0
+Medchal,2021,December,0.0
+Medchal,2022,January,0.0
+Medchal,2022,February,0.0
+Medchal,2022,March,0.0
+Medchal,2022,April,0.0
+Medchal,2022,May,0.0
+Medchal,2022,June,0.0
+Medchal,2022,July,0.0
+Medchal,2022,August,0.0
+Medchal,2022,September,0.0
+Medchal,2022,October,0.0
+Medchal,2022,November,0.0
+Medchal,2022,December,0.0
+Mulugu,2020,January,70.0
+Mulugu,2020,February,60.0
+Mulugu,2020,March,15.0
+Mulugu,2020,April,1987.0
+Mulugu,2020,May,6543.0
+Mulugu,2020,June,3210.0
+Mulugu,2020,July,8765.0
+Mulugu,2020,August,4321.0
+Mulugu,2020,September,1987.0
+Mulugu,2020,October,6543.0
+Mulugu,2020,November,3210.0
+Mulugu,2020,December,8765.0
+Mulugu,2021,January,1987.0
+Mulugu,2021,February,6543.0
+Mulugu,2021,March,15.0
+Mulugu,2021,April,3210.0
+Mulugu,2021,May,8765.0
+Mulugu,2021,June,4321.0
+Mulugu,2021,July,1987.0
+Mulugu,2021,August,8.0
+Mulugu,2021,September,8.0
+Mulugu,2021,October,10.0
+Mulugu,2021,November,9.0
+Mulugu,2021,December,10.0
+Mulugu,2022,January,10.0
+Mulugu,2022,February,8.0
+Mulugu,2022,March,9.0
+Mulugu,2022,April,8.0
+Mulugu,2022,May,8.0
+Mulugu,2022,June,8.0
+Mulugu,2022,July,8.0
+Mulugu,2022,August,10.0
+Mulugu,2022,September,10.0
+Mulugu,2022,October,11.0
+Mulugu,2022,November,10.0
+Mulugu,2022,December,10.0
+Nagarkurnool,2020,January,35.0
+Nagarkurnool,2020,February,15.0
+Nagarkurnool,2020,March,4321.0
+Nagarkurnool,2020,April,1987.0
+Nagarkurnool,2020,May,6543.0
+Nagarkurnool,2020,June,3210.0
+Nagarkurnool,2020,July,8765.0
+Nagarkurnool,2020,August,4321.0
+Nagarkurnool,2020,September,1987.0
+Nagarkurnool,2020,October,6543.0
+Nagarkurnool,2020,November,3210.0
+Nagarkurnool,2020,December,8765.0
+Nagarkurnool,2021,January,6543.0
+Nagarkurnool,2021,February,3210.0
+Nagarkurnool,2021,March,8765.0
+Nagarkurnool,2021,April,4321.0
+Nagarkurnool,2021,May,1987.0
+Nagarkurnool,2021,June,6543.0
+Nagarkurnool,2021,July,3210.0
+Nagarkurnool,2021,August,8765.0
+Nagarkurnool,2021,September,4321.0
+Nagarkurnool,2021,October,1987.0
+Nagarkurnool,2021,November,6543.0
+Nagarkurnool,2021,December,3210.0
+Nagarkurnool,2022,January,8765.0
+Nagarkurnool,2022,February,4321.0
+Nagarkurnool,2022,March,1987.0
+Nagarkurnool,2022,April,6543.0
+Nagarkurnool,2022,May,3210.0
+Nagarkurnool,2022,June,8765.0
+Nagarkurnool,2022,July,4321.0
+Nagarkurnool,2022,August,1987.0
+Nagarkurnool,2022,September,6543.0
+Nagarkurnool,2022,October,3210.0
+Nagarkurnool,2022,November,8765.0
+Nagarkurnool,2022,December,4321.0
+Nalgonda,2020,January,4321.0
+Nalgonda,2020,February,1987.0
+Nalgonda,2020,March,6543.0
+Nalgonda,2020,April,3210.0
+Nalgonda,2020,May,8765.0
+Nalgonda,2020,June,4321.0
+Nalgonda,2020,July,1987.0
+Nalgonda,2020,August,6543.0
+Nalgonda,2020,September,3210.0
+Nalgonda,2020,October,8765.0
+Nalgonda,2020,November,4321.0
+Nalgonda,2020,December,1987.0
+Nalgonda,2021,January,8765.0
+Nalgonda,2021,February,4321.0
+Nalgonda,2021,March,1987.0
+Nalgonda,2021,April,6543.0
+Nalgonda,2021,May,3210.0
+Nalgonda,2021,June,8765.0
+Nalgonda,2021,July,4321.0
+Nalgonda,2021,August,1987.0
+Nalgonda,2021,September,6543.0
+Nalgonda,2021,October,3210.0
+Nalgonda,2021,November,8765.0
+Nalgonda,2021,December,4321.0
+Nalgonda,2022,January,1987.0
+Nalgonda,2022,February,6543.0
+Nalgonda,2022,March,3210.0
+Nalgonda,2022,April,8765.0
+Nalgonda,2022,May,4321.0
+Nalgonda,2022,June,1987.0
+Nalgonda,2022,July,6543.0
+Nalgonda,2022,August,3210.0
+Nalgonda,2022,September,8765.0
+Nalgonda,2022,October,4321.0
+Nalgonda,2022,November,1987.0
+Nalgonda,2022,December,6543.0
+Narayanpet,2020,January,6543.0
+Narayanpet,2020,February,3210.0
+Narayanpet,2020,March,8765.0
+Narayanpet,2020,April,4321.0
+Narayanpet,2020,May,1987.0
+Narayanpet,2020,June,6543.0
+Narayanpet,2020,July,3210.0
+Narayanpet,2020,August,8765.0
+Narayanpet,2020,September,4321.0
+Narayanpet,2020,October,1987.0
+Narayanpet,2020,November,6543.0
+Narayanpet,2020,December,3210.0
+Narayanpet,2021,January,1987.0
+Narayanpet,2021,February,6543.0
+Narayanpet,2021,March,3210.0
+Narayanpet,2021,April,8765.0
+Narayanpet,2021,May,4321.0
+Narayanpet,2021,June,1987.0
+Narayanpet,2021,July,6543.0
+Narayanpet,2021,August,3210.0
+Narayanpet,2021,September,8765.0
+Narayanpet,2021,October,4321.0
+Narayanpet,2021,November,1987.0
+Narayanpet,2021,December,6543.0
+Narayanpet,2022,January,3210.0
+Narayanpet,2022,February,8765.0
+Narayanpet,2022,March,4321.0
+Narayanpet,2022,April,1987.0
+Narayanpet,2022,May,6543.0
+Narayanpet,2022,June,3210.0
+Narayanpet,2022,July,8765.0
+Narayanpet,2022,August,4321.0
+Narayanpet,2022,September,1987.0
+Narayanpet,2022,October,6543.0
+Narayanpet,2022,November,3210.0
+Narayanpet,2022,December,8765.0
+Nirmal,2020,January,8765.0
+Nirmal,2020,February,4321.0
+Nirmal,2020,March,1987.0
+Nirmal,2020,April,6543.0
+Nirmal,2020,May,3210.0
+Nirmal,2020,June,8765.0
+Nirmal,2020,July,4321.0
+Nirmal,2020,August,1987.0
+Nirmal,2020,September,6543.0
+Nirmal,2020,October,3210.0
+Nirmal,2020,November,8765.0
+Nirmal,2020,December,4321.0
+Nirmal,2021,January,3210.0
+Nirmal,2021,February,8765.0
+Nirmal,2021,March,4321.0
+Nirmal,2021,April,1987.0
+Nirmal,2021,May,6543.0
+Nirmal,2021,June,3210.0
+Nirmal,2021,July,8765.0
+Nirmal,2021,August,4321.0
+Nirmal,2021,September,1987.0
+Nirmal,2021,October,6543.0
+Nirmal,2021,November,3210.0
+Nirmal,2021,December,8765.0
+Nirmal,2022,January,4321.0
+Nirmal,2022,February,1987.0
+Nirmal,2022,March,6543.0
+Nirmal,2022,April,3210.0
+Nirmal,2022,May,8765.0
+Nirmal,2022,June,4321.0
+Nirmal,2022,July,1987.0
+Nirmal,2022,August,6543.0
+Nirmal,2022,September,3210.0
+Nirmal,2022,October,8765.0
+Nirmal,2022,November,4321.0
+Nirmal,2022,December,1987.0
+Nizamabad,2020,January,1987.0
+Nizamabad,2020,February,6543.0
+Nizamabad,2020,March,3210.0
+Nizamabad,2020,April,8765.0
+Nizamabad,2020,May,4321.0
+Nizamabad,2020,June,1987.0
+Nizamabad,2020,July,6543.0
+Nizamabad,2020,August,3210.0
+Nizamabad,2020,September,8765.0
+Nizamabad,2020,October,4321.0
+Nizamabad,2020,November,1987.0
+Nizamabad,2020,December,6543.0
+Nizamabad,2021,January,4321.0
+Nizamabad,2021,February,1987.0
+Nizamabad,2021,March,6543.0
+Nizamabad,2021,April,3210.0
+Nizamabad,2021,May,8765.0
+Nizamabad,2021,June,4321.0
+Nizamabad,2021,July,1987.0
+Nizamabad,2021,August,6543.0
+Nizamabad,2021,September,3210.0
+Nizamabad,2021,October,8765.0
+Nizamabad,2021,November,4321.0
+Nizamabad,2021,December,1987.0
+Nizamabad,2022,January,6543.0
+Nizamabad,2022,February,3210.0
+Nizamabad,2022,March,8765.0
+Nizamabad,2022,April,4321.0
+Nizamabad,2022,May,2.0
+Nizamabad,2022,June,1987.0
+Nizamabad,2022,July,6543.0
+Nizamabad,2022,August,3210.0
+Nizamabad,2022,September,8765.0
+Nizamabad,2022,October,4321.0
+Nizamabad,2022,November,1987.0
+Nizamabad,2022,December,6543.0
+Peddapalli,2020,January,3210.0
+Peddapalli,2020,February,8765.0
+Peddapalli,2020,March,4321.0
+Peddapalli,2020,April,1987.0
+Peddapalli,2020,May,6543.0
+Peddapalli,2020,June,3210.0
+Peddapalli,2020,July,8765.0
+Peddapalli,2020,August,4321.0
+Peddapalli,2020,September,1987.0
+Peddapalli,2020,October,6543.0
+Peddapalli,2020,November,3210.0
+Peddapalli,2020,December,8765.0
+Peddapalli,2021,January,6543.0
+Peddapalli,2021,February,3210.0
+Peddapalli,2021,March,8765.0
+Peddapalli,2021,April,4321.0
+Peddapalli,2021,May,1987.0
+Peddapalli,2021,June,6543.0
+Peddapalli,2021,July,3210.0
+Peddapalli,2021,August,8765.0
+Peddapalli,2021,September,4321.0
+Peddapalli,2021,October,1987.0
+Peddapalli,2021,November,6543.0
+Peddapalli,2021,December,3210.0
+Peddapalli,2022,January,0.0
+Peddapalli,2022,February,0.0
+Peddapalli,2022,March,0.0
+Peddapalli,2022,April,0.0
+Peddapalli,2022,May,0.0
+Peddapalli,2022,June,0.0
+Peddapalli,2022,July,0.0
+Peddapalli,2022,August,0.0
+Peddapalli,2022,September,0.0
+Peddapalli,2022,October,0.0
+Peddapalli,2022,November,0.0
+Peddapalli,2022,December,0.0
+Rajanna Sircilla,2020,January,4321.0
+Rajanna Sircilla,2020,February,1987.0
+Rajanna Sircilla,2020,March,6543.0
+Rajanna Sircilla,2020,April,3210.0
+Rajanna Sircilla,2020,May,8765.0
+Rajanna Sircilla,2020,June,4321.0
+Rajanna Sircilla,2020,July,1987.0
+Rajanna Sircilla,2020,August,6543.0
+Rajanna Sircilla,2020,September,3210.0
+Rajanna Sircilla,2020,October,8765.0
+Rajanna Sircilla,2020,November,4321.0
+Rajanna Sircilla,2020,December,1987.0
+Rajanna Sircilla,2021,January,8765.0
+Rajanna Sircilla,2021,February,4321.0
+Rajanna Sircilla,2021,March,1987.0
+Rajanna Sircilla,2021,April,6543.0
+Rajanna Sircilla,2021,May,3210.0
+Rajanna Sircilla,2021,June,8765.0
+Rajanna Sircilla,2021,July,4321.0
+Rajanna Sircilla,2021,August,1987.0
+Rajanna Sircilla,2021,September,6543.0
+Rajanna Sircilla,2021,October,3210.0
+Rajanna Sircilla,2021,November,8765.0
+Rajanna Sircilla,2021,December,4321.0
+Rajanna Sircilla,2022,January,4321.0
+Rajanna Sircilla,2022,February,1987.0
+Rajanna Sircilla,2022,March,6543.0
+Rajanna Sircilla,2022,April,3210.0
+Rajanna Sircilla,2022,May,8765.0
+Rajanna Sircilla,2022,June,4321.0
+Rajanna Sircilla,2022,July,1987.0
+Rajanna Sircilla,2022,August,6543.0
+Rajanna Sircilla,2022,September,3210.0
+Rajanna Sircilla,2022,October,8765.0
+Rajanna Sircilla,2022,November,4321.0
+Rajanna Sircilla,2022,December,1987.0
+Ranga Reddy,2020,January,1601.0
+Ranga Reddy,2020,February,9229.0
+Ranga Reddy,2020,March,8517.0
+Ranga Reddy,2020,April,8634.0
+Ranga Reddy,2020,May,4790.0
+Ranga Reddy,2020,June,5475.0
+Ranga Reddy,2020,July,1779.0
+Ranga Reddy,2020,August,2006.0
+Ranga Reddy,2020,September,8468.0
+Ranga Reddy,2020,October,1377.0
+Ranga Reddy,2020,November,3901.0
+Ranga Reddy,2020,December,2337.0
+Ranga Reddy,2021,January,0.0
+Ranga Reddy,2021,February,0.0
+Ranga Reddy,2021,March,0.0
+Ranga Reddy,2021,April,0.0
+Ranga Reddy,2021,May,0.0
+Ranga Reddy,2021,June,0.0
+Ranga Reddy,2021,July,0.0
+Ranga Reddy,2021,August,0.0
+Ranga Reddy,2021,September,0.0
+Ranga Reddy,2021,October,0.0
+Ranga Reddy,2021,November,0.0
+Ranga Reddy,2021,December,0.0
+Ranga Reddy,2022,January,0.0
+Ranga Reddy,2022,February,0.0
+Ranga Reddy,2022,March,0.0
+Ranga Reddy,2022,April,0.0
+Ranga Reddy,2022,May,0.0
+Ranga Reddy,2022,June,0.0
+Ranga Reddy,2022,July,0.0
+Ranga Reddy,2022,August,0.0
+Ranga Reddy,2022,September,0.0
+Ranga Reddy,2022,October,0.0
+Ranga Reddy,2022,November,0.0
+Ranga Reddy,2022,December,0.0
+Sangareddy,2020,January,6543.0
+Sangareddy,2020,February,3210.0
+Sangareddy,2020,March,8765.0
+Sangareddy,2020,April,4321.0
+Sangareddy,2020,May,1987.0
+Sangareddy,2020,June,6543.0
+Sangareddy,2020,July,3210.0
+Sangareddy,2020,August,8765.0
+Sangareddy,2020,September,4321.0
+Sangareddy,2020,October,1987.0
+Sangareddy,2020,November,6543.0
+Sangareddy,2020,December,3210.0
+Sangareddy,2021,January,1987.0
+Sangareddy,2021,February,6543.0
+Sangareddy,2021,March,3210.0
+Sangareddy,2021,April,8765.0
+Sangareddy,2021,May,4321.0
+Sangareddy,2021,June,1987.0
+Sangareddy,2021,July,6543.0
+Sangareddy,2021,August,3210.0
+Sangareddy,2021,September,8765.0
+Sangareddy,2021,October,4321.0
+Sangareddy,2021,November,1987.0
+Sangareddy,2021,December,6543.0
+Sangareddy,2022,January,6543.0
+Sangareddy,2022,February,3210.0
+Sangareddy,2022,March,8765.0
+Sangareddy,2022,April,4321.0
+Sangareddy,2022,May,1987.0
+Sangareddy,2022,June,6543.0
+Sangareddy,2022,July,3210.0
+Sangareddy,2022,August,8765.0
+Sangareddy,2022,September,4321.0
+Sangareddy,2022,October,1987.0
+Sangareddy,2022,November,6543.0
+Sangareddy,2022,December,3210.0
+Siddipet,2020,January,8765.0
+Siddipet,2020,February,4321.0
+Siddipet,2020,March,1987.0
+Siddipet,2020,April,6543.0
+Siddipet,2020,May,3210.0
+Siddipet,2020,June,8765.0
+Siddipet,2020,July,4321.0
+Siddipet,2020,August,1987.0
+Siddipet,2020,September,6543.0
+Siddipet,2020,October,3210.0
+Siddipet,2020,November,8765.0
+Siddipet,2020,December,4321.0
+Siddipet,2021,January,3210.0
+Siddipet,2021,February,8765.0
+Siddipet,2021,March,4321.0
+Siddipet,2021,April,1987.0
+Siddipet,2021,May,6543.0
+Siddipet,2021,June,3210.0
+Siddipet,2021,July,8765.0
+Siddipet,2021,August,4321.0
+Siddipet,2021,September,1987.0
+Siddipet,2021,October,6543.0
+Siddipet,2021,November,3210.0
+Siddipet,2021,December,8765.0
+Siddipet,2022,January,0.0
+Siddipet,2022,February,0.0
+Siddipet,2022,March,0.0
+Siddipet,2022,April,0.0
+Siddipet,2022,May,0.0
+Siddipet,2022,June,0.0
+Siddipet,2022,July,0.0
+Siddipet,2022,August,0.0
+Siddipet,2022,September,0.0
+Siddipet,2022,October,0.0
+Siddipet,2022,November,0.0
+Siddipet,2022,December,0.0
+Suryapet,2020,January,1987.0
+Suryapet,2020,February,6543.0
+Suryapet,2020,March,3210.0
+Suryapet,2020,April,8765.0
+Suryapet,2020,May,4321.0
+Suryapet,2020,June,1987.0
+Suryapet,2020,July,6543.0
+Suryapet,2020,August,3210.0
+Suryapet,2020,September,8765.0
+Suryapet,2020,October,4321.0
+Suryapet,2020,November,1987.0
+Suryapet,2020,December,6543.0
+Suryapet,2021,January,4321.0
+Suryapet,2021,February,1987.0
+Suryapet,2021,March,6543.0
+Suryapet,2021,April,3210.0
+Suryapet,2021,May,8765.0
+Suryapet,2021,June,4321.0
+Suryapet,2021,July,1987.0
+Suryapet,2021,August,6543.0
+Suryapet,2021,September,3210.0
+Suryapet,2021,October,8765.0
+Suryapet,2021,November,4321.0
+Suryapet,2021,December,1987.0
+Suryapet,2022,January,1987.0
+Suryapet,2022,February,6543.0
+Suryapet,2022,March,3210.0
+Suryapet,2022,April,8765.0
+Suryapet,2022,May,4321.0
+Suryapet,2022,June,1987.0
+Suryapet,2022,July,6543.0
+Suryapet,2022,August,3210.0
+Suryapet,2022,September,8765.0
+Suryapet,2022,October,4321.0
+Suryapet,2022,November,1987.0
+Suryapet,2022,December,6543.0
+Vikarabad,2020,January,6728.0
+Vikarabad,2020,February,2729.0
+Vikarabad,2020,March,3991.0
+Vikarabad,2020,April,3202.0
+Vikarabad,2020,May,2767.0
+Vikarabad,2020,June,1612.0
+Vikarabad,2020,July,8459.0
+Vikarabad,2020,August,9574.0
+Vikarabad,2020,September,2022.0
+Vikarabad,2020,October,6618.0
+Vikarabad,2020,November,4339.0
+Vikarabad,2020,December,8789.0
+Vikarabad,2021,January,0.0
+Vikarabad,2021,February,0.0
+Vikarabad,2021,March,0.0
+Vikarabad,2021,April,0.0
+Vikarabad,2021,May,0.0
+Vikarabad,2021,June,0.0
+Vikarabad,2021,July,0.0
+Vikarabad,2021,August,0.0
+Vikarabad,2021,September,0.0
+Vikarabad,2021,October,0.0
+Vikarabad,2021,November,0.0
+Vikarabad,2021,December,0.0
+Vikarabad,2022,January,0.0
+Vikarabad,2022,February,0.0
+Vikarabad,2022,March,0.0
+Vikarabad,2022,April,0.0
+Vikarabad,2022,May,0.0
+Vikarabad,2022,June,0.0
+Vikarabad,2022,July,0.0
+Vikarabad,2022,August,0.0
+Vikarabad,2022,September,0.0
+Vikarabad,2022,October,0.0
+Vikarabad,2022,November,0.0
+Vikarabad,2022,December,0.0
+Wanaparthy,2020,January,3210.0
+Wanaparthy,2020,February,8765.0
+Wanaparthy,2020,March,4321.0
+Wanaparthy,2020,April,1987.0
+Wanaparthy,2020,May,6543.0
+Wanaparthy,2020,June,3210.0
+Wanaparthy,2020,July,8765.0
+Wanaparthy,2020,August,4321.0
+Wanaparthy,2020,September,1987.0
+Wanaparthy,2020,October,6543.0
+Wanaparthy,2020,November,3210.0
+Wanaparthy,2020,December,8765.0
+Wanaparthy,2021,January,6543.0
+Wanaparthy,2021,February,3210.0
+Wanaparthy,2021,March,8765.0
+Wanaparthy,2021,April,4321.0
+Wanaparthy,2021,May,1987.0
+Wanaparthy,2021,June,6543.0
+Wanaparthy,2021,July,3210.0
+Wanaparthy,2021,August,8765.0
+Wanaparthy,2021,September,4321.0
+Wanaparthy,2021,October,1987.0
+Wanaparthy,2021,November,6543.0
+Wanaparthy,2021,December,3210.0
+Wanaparthy,2022,January,3210.0
+Wanaparthy,2022,February,8765.0
+Wanaparthy,2022,March,4321.0
+Wanaparthy,2022,April,1987.0
+Wanaparthy,2022,May,6543.0
+Wanaparthy,2022,June,3210.0
+Wanaparthy,2022,July,8765.0
+Wanaparthy,2022,August,4321.0
+Wanaparthy,2022,September,1987.0
+Wanaparthy,2022,October,6543.0
+Wanaparthy,2022,November,3210.0
+Wanaparthy,2022,December,8765.0
+Warangal (Rural),2020,January,4321.0
+Warangal (Rural),2020,February,1987.0
+Warangal (Rural),2020,March,6543.0
+Warangal (Rural),2020,April,3210.0
+Warangal (Rural),2020,May,8765.0
+Warangal (Rural),2020,June,4321.0
+Warangal (Rural),2020,July,1987.0
+Warangal (Rural),2020,August,6543.0
+Warangal (Rural),2020,September,3210.0
+Warangal (Rural),2020,October,8765.0
+Warangal (Rural),2020,November,4321.0
+Warangal (Rural),2020,December,1987.0
+Warangal (Rural),2021,January,0.0
+Warangal (Rural),2021,February,0.0
+Warangal (Rural),2021,March,0.0
+Warangal (Rural),2021,April,0.0
+Warangal (Rural),2021,May,0.0
+Warangal (Rural),2021,June,0.0
+Warangal (Rural),2021,July,0.0
+Warangal (Rural),2021,August,0.0
+Warangal (Rural),2021,September,0.0
+Warangal (Rural),2021,October,0.0
+Warangal (Rural),2021,November,0.0
+Warangal (Rural),2021,December,0.0
+Warangal (Rural),2022,January,4321.0
+Warangal (Rural),2022,February,1987.0
+Warangal (Rural),2022,March,6543.0
+Warangal (Rural),2022,April,3210.0
+Warangal (Rural),2022,May,8765.0
+Warangal (Rural),2022,June,4321.0
+Warangal (Rural),2022,July,1987.0
+Warangal (Rural),2022,August,11.0
+Warangal (Rural),2022,September,13.0
+Warangal (Rural),2022,October,6543.0
+Warangal (Rural),2022,November,12.0
+Warangal (Rural),2022,December,11.0
+Warangal (Urban),2020,January,225.0
+Warangal (Urban),2020,February,225.0
+Warangal (Urban),2020,March,80.0
+Warangal (Urban),2020,April,6543.0
+Warangal (Urban),2020,May,3210.0
+Warangal (Urban),2020,June,8765.0
+Warangal (Urban),2020,July,4321.0
+Warangal (Urban),2020,August,1987.0
+Warangal (Urban),2020,September,6543.0
+Warangal (Urban),2020,October,3210.0
+Warangal (Urban),2020,November,8765.0
+Warangal (Urban),2020,December,4321.0
+Warangal (Urban),2021,January,0.0
+Warangal (Urban),2021,February,0.0
+Warangal (Urban),2021,March,0.0
+Warangal (Urban),2021,April,0.0
+Warangal (Urban),2021,May,0.0
+Warangal (Urban),2021,June,0.0
+Warangal (Urban),2021,July,0.0
+Warangal (Urban),2021,August,0.0
+Warangal (Urban),2021,September,0.0
+Warangal (Urban),2021,October,0.0
+Warangal (Urban),2021,November,0.0
+Warangal (Urban),2021,December,0.0
+Warangal (Urban),2022,January,0.0
+Warangal (Urban),2022,February,0.0
+Warangal (Urban),2022,March,0.0
+Warangal (Urban),2022,April,0.0
+Warangal (Urban),2022,May,0.0
+Warangal (Urban),2022,June,0.0
+Warangal (Urban),2022,July,0.0
+Warangal (Urban),2022,August,0.0
+Warangal (Urban),2022,September,0.0
+Warangal (Urban),2022,October,0.0
+Warangal (Urban),2022,November,0.0
+Warangal (Urban),2022,December,0.0
+Yadadri Bhongir,2020,January,1987.0
+Yadadri Bhongir,2020,February,6543.0
+Yadadri Bhongir,2020,March,3210.0
+Yadadri Bhongir,2020,April,8765.0
+Yadadri Bhongir,2020,May,4321.0
+Yadadri Bhongir,2020,June,1987.0
+Yadadri Bhongir,2020,July,6543.0
+Yadadri Bhongir,2020,August,3210.0
+Yadadri Bhongir,2020,September,8765.0
+Yadadri Bhongir,2020,October,4321.0
+Yadadri Bhongir,2020,November,1987.0
+Yadadri Bhongir,2020,December,6543.0
+Yadadri Bhongir,2021,January,1987.0
+Yadadri Bhongir,2021,February,6543.0
+Yadadri Bhongir,2021,March,3210.0
+Yadadri Bhongir,2021,April,8765.0
+Yadadri Bhongir,2021,May,4321.0
+Yadadri Bhongir,2021,June,1987.0
+Yadadri Bhongir,2021,July,6543.0
+Yadadri Bhongir,2021,August,3210.0
+Yadadri Bhongir,2021,September,8765.0
+Yadadri Bhongir,2021,October,4321.0
+Yadadri Bhongir,2021,November,1987.0
+Yadadri Bhongir,2021,December,6543.0
+Yadadri Bhongir,2022,January,0.0
+Yadadri Bhongir,2022,February,0.0
+Yadadri Bhongir,2022,March,0.0
+Yadadri Bhongir,2022,April,0.0
+Yadadri Bhongir,2022,May,0.0
+Yadadri Bhongir,2022,June,0.0
+Yadadri Bhongir,2022,July,0.0
+Yadadri Bhongir,2022,August,0.0
+Yadadri Bhongir,2022,September,0.0
+Yadadri Bhongir,2022,October,0.0
+Yadadri Bhongir,2022,November,0.0
+Yadadri Bhongir,2022,December,0.0
+Hanumakonda,2020,January,0.0
+Hanumakonda,2020,February,0.0
+Hanumakonda,2020,March,0.0
+Hanumakonda,2020,April,0.0
+Hanumakonda,2020,May,0.0
+Hanumakonda,2020,June,0.0
+Hanumakonda,2020,July,0.0
+Hanumakonda,2020,August,0.0
+Hanumakonda,2020,September,0.0
+Hanumakonda,2020,October,0.0
+Hanumakonda,2020,November,0.0
+Hanumakonda,2020,December,0.0
+Hanumakonda,2021,January,6543.0
+Hanumakonda,2021,February,3210.0
+Hanumakonda,2021,March,80.0
+Hanumakonda,2021,April,5.0
+Hanumakonda,2021,May,8765.0
+Hanumakonda,2021,June,4321.0
+Hanumakonda,2021,July,1987.0
+Hanumakonda,2021,August,3.0
+Hanumakonda,2021,September,5.0
+Hanumakonda,2021,October,5.0
+Hanumakonda,2021,November,8.0
+Hanumakonda,2021,December,6.0
+Hanumakonda,2022,January,0.0
+Hanumakonda,2022,February,0.0
+Hanumakonda,2022,March,0.0
+Hanumakonda,2022,April,0.0
+Hanumakonda,2022,May,0.0
+Hanumakonda,2022,June,0.0
+Hanumakonda,2022,July,0.0
+Hanumakonda,2022,August,0.0
+Hanumakonda,2022,September,0.0
+Hanumakonda,2022,October,0.0
+Hanumakonda,2022,November,0.0
+Hanumakonda,2022,December,0.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2020,January,0.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2020,February,0.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2020,March,0.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2020,April,0.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2020,May,0.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2020,June,0.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2020,July,0.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2020,August,0.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2020,September,0.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2020,October,0.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2020,November,0.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2020,December,0.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2021,January,758.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2021,February,814.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2021,March,294.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2021,April,90.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2021,May,158.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2021,June,79.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2021,July,131.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2021,August,169.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2021,September,343.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2021,October,931.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2021,November,758.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2021,December,1220.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2022,January,575.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2022,February,592.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2022,March,1907.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2022,April,4959.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2022,May,7841.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2022,June,5241.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2022,July,6972.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2022,August,13256.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2022,September,7828.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2022,October,5206.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2022,November,4524.0
+"Hyderabad, Ranga Reddy, Medchal & Vikarabad",2022,December,9275.0
+Mahabubnagar,2020,January,0.0
+Mahabubnagar,2020,February,0.0
+Mahabubnagar,2020,March,0.0
+Mahabubnagar,2020,April,0.0
+Mahabubnagar,2020,May,0.0
+Mahabubnagar,2020,June,0.0
+Mahabubnagar,2020,July,0.0
+Mahabubnagar,2020,August,0.0
+Mahabubnagar,2020,September,0.0
+Mahabubnagar,2020,October,0.0
+Mahabubnagar,2020,November,0.0
+Mahabubnagar,2020,December,0.0
+Mahabubnagar,2021,January,4321.0
+Mahabubnagar,2021,February,1987.0
+Mahabubnagar,2021,March,6543.0
+Mahabubnagar,2021,April,3210.0
+Mahabubnagar,2021,May,8765.0
+Mahabubnagar,2021,June,4321.0
+Mahabubnagar,2021,July,1987.0
+Mahabubnagar,2021,August,6543.0
+Mahabubnagar,2021,September,3210.0
+Mahabubnagar,2021,October,8765.0
+Mahabubnagar,2021,November,4321.0
+Mahabubnagar,2021,December,1987.0
+Mahabubnagar,2022,January,0.0
+Mahabubnagar,2022,February,0.0
+Mahabubnagar,2022,March,0.0
+Mahabubnagar,2022,April,0.0
+Mahabubnagar,2022,May,0.0
+Mahabubnagar,2022,June,0.0
+Mahabubnagar,2022,July,0.0
+Mahabubnagar,2022,August,0.0
+Mahabubnagar,2022,September,0.0
+Mahabubnagar,2022,October,0.0
+Mahabubnagar,2022,November,0.0
+Mahabubnagar,2022,December,0.0
+Warangal,2020,January,0.0
+Warangal,2020,February,0.0
+Warangal,2020,March,0.0
+Warangal,2020,April,0.0
+Warangal,2020,May,0.0
+Warangal,2020,June,0.0
+Warangal,2020,July,0.0
+Warangal,2020,August,0.0
+Warangal,2020,September,0.0
+Warangal,2020,October,0.0
+Warangal,2020,November,0.0
+Warangal,2020,December,0.0
+Warangal,2021,January,8765.0
+Warangal,2021,February,4321.0
+Warangal,2021,March,1987.0
+Warangal,2021,April,6543.0
+Warangal,2021,May,3210.0
+Warangal,2021,June,8765.0
+Warangal,2021,July,4321.0
+Warangal,2021,August,1987.0
+Warangal,2021,September,6543.0
+Warangal,2021,October,3210.0
+Warangal,2021,November,8765.0
+Warangal,2021,December,4321.0
+Warangal,2022,January,0.0
+Warangal,2022,February,0.0
+Warangal,2022,March,0.0
+Warangal,2022,April,0.0
+Warangal,2022,May,0.0
+Warangal,2022,June,0.0
+Warangal,2022,July,0.0
+Warangal,2022,August,0.0
+Warangal,2022,September,0.0
+Warangal,2022,October,0.0
+Warangal,2022,November,0.0
+Warangal,2022,December,0.0
+Hunmakonda,2020,January,0.0
+Hunmakonda,2020,February,0.0
+Hunmakonda,2020,March,0.0
+Hunmakonda,2020,April,0.0
+Hunmakonda,2020,May,0.0
+Hunmakonda,2020,June,0.0
+Hunmakonda,2020,July,0.0
+Hunmakonda,2020,August,0.0
+Hunmakonda,2020,September,0.0
+Hunmakonda,2020,October,0.0
+Hunmakonda,2020,November,0.0
+Hunmakonda,2020,December,0.0
+Hunmakonda,2021,January,0.0
+Hunmakonda,2021,February,0.0
+Hunmakonda,2021,March,0.0
+Hunmakonda,2021,April,0.0
+Hunmakonda,2021,May,0.0
+Hunmakonda,2021,June,0.0
+Hunmakonda,2021,July,0.0
+Hunmakonda,2021,August,0.0
+Hunmakonda,2021,September,0.0
+Hunmakonda,2021,October,0.0
+Hunmakonda,2021,November,0.0
+Hunmakonda,2021,December,0.0
+Hunmakonda,2022,January,8.0
+Hunmakonda,2022,February,8.0
+Hunmakonda,2022,March,8.0
+Hunmakonda,2022,April,8.0
+Hunmakonda,2022,May,7.0
+Hunmakonda,2022,June,7.0
+Hunmakonda,2022,July,9.0
+Hunmakonda,2022,August,1987.0
+Hunmakonda,2022,September,6543.0
+Hunmakonda,2022,October,9.0
+Hunmakonda,2022,November,3210.0
+Hunmakonda,2022,December,8765.0
+Peddapa li,2020,January,0.0
+Peddapa li,2020,February,0.0
+Peddapa li,2020,March,0.0
+Peddapa li,2020,April,0.0
+Peddapa li,2020,May,0.0
+Peddapa li,2020,June,0.0
+Peddapa li,2020,July,0.0
+Peddapa li,2020,August,0.0
+Peddapa li,2020,September,0.0
+Peddapa li,2020,October,0.0
+Peddapa li,2020,November,0.0
+Peddapa li,2020,December,0.0
+Peddapa li,2021,January,0.0
+Peddapa li,2021,February,0.0
+Peddapa li,2021,March,0.0
+Peddapa li,2021,April,0.0
+Peddapa li,2021,May,0.0
+Peddapa li,2021,June,0.0
+Peddapa li,2021,July,0.0
+Peddapa li,2021,August,0.0
+Peddapa li,2021,September,0.0
+Peddapa li,2021,October,0.0
+Peddapa li,2021,November,0.0
+Peddapa li,2021,December,0.0
+Peddapa li,2022,January,3210.0
+Peddapa li,2022,February,8765.0
+Peddapa li,2022,March,4321.0
+Peddapa li,2022,April,1987.0
+Peddapa li,2022,May,6543.0
+Peddapa li,2022,June,3210.0
+Peddapa li,2022,July,8765.0
+Peddapa li,2022,August,4321.0
+Peddapa li,2022,September,1987.0
+Peddapa li,2022,October,6543.0
+Peddapa li,2022,November,3210.0
+Peddapa li,2022,December,8765.0
+Siddip et,2020,January,0.0
+Siddip et,2020,February,0.0
+Siddip et,2020,March,0.0
+Siddip et,2020,April,0.0
+Siddip et,2020,May,0.0
+Siddip et,2020,June,0.0
+Siddip et,2020,July,0.0
+Siddip et,2020,August,0.0
+Siddip et,2020,September,0.0
+Siddip et,2020,October,0.0
+Siddip et,2020,November,0.0
+Siddip et,2020,December,0.0
+Siddip et,2021,January,0.0
+Siddip et,2021,February,0.0
+Siddip et,2021,March,0.0
+Siddip et,2021,April,0.0
+Siddip et,2021,May,0.0
+Siddip et,2021,June,0.0
+Siddip et,2021,July,0.0
+Siddip et,2021,August,0.0
+Siddip et,2021,September,0.0
+Siddip et,2021,October,0.0
+Siddip et,2021,November,0.0
+Siddip et,2021,December,0.0
+Siddip et,2022,January,8765.0
+Siddip et,2022,February,4321.0
+Siddip et,2022,March,1987.0
+Siddip et,2022,April,6543.0
+Siddip et,2022,May,3210.0
+Siddip et,2022,June,8765.0
+Siddip et,2022,July,4321.0
+Siddip et,2022,August,1987.0
+Siddip et,2022,September,6543.0
+Siddip et,2022,October,3210.0
+Siddip et,2022,November,8765.0
+Siddip et,2022,December,4321.0
+Yadadri Bhongir •,2020,January,0.0
+Yadadri Bhongir •,2020,February,0.0
+Yadadri Bhongir •,2020,March,0.0
+Yadadri Bhongir •,2020,April,0.0
+Yadadri Bhongir •,2020,May,0.0
+Yadadri Bhongir •,2020,June,0.0
+Yadadri Bhongir •,2020,July,0.0
+Yadadri Bhongir •,2020,August,0.0
+Yadadri Bhongir •,2020,September,0.0
+Yadadri Bhongir •,2020,October,0.0
+Yadadri Bhongir •,2020,November,0.0
+Yadadri Bhongir •,2020,December,0.0
+Yadadri Bhongir •,2021,January,0.0
+Yadadri Bhongir •,2021,February,0.0
+Yadadri Bhongir •,2021,March,0.0
+Yadadri Bhongir •,2021,April,0.0
+Yadadri Bhongir •,2021,May,0.0
+Yadadri Bhongir •,2021,June,0.0
+Yadadri Bhongir •,2021,July,0.0
+Yadadri Bhongir •,2021,August,0.0
+Yadadri Bhongir •,2021,September,0.0
+Yadadri Bhongir •,2021,October,0.0
+Yadadri Bhongir •,2021,November,0.0
+Yadadri Bhongir •,2021,December,0.0
+Yadadri Bhongir •,2022,January,8765.0
+Yadadri Bhongir •,2022,February,4321.0
+Yadadri Bhongir •,2022,March,1987.0
+Yadadri Bhongir •,2022,April,6543.0
+Yadadri Bhongir •,2022,May,3210.0
+Yadadri Bhongir •,2022,June,8765.0
+Yadadri Bhongir •,2022,July,4321.0
+Yadadri Bhongir •,2022,August,1987.0
+Yadadri Bhongir •,2022,September,6543.0
+Yadadri Bhongir •,2022,October,3210.0
+Yadadri Bhongir •,2022,November,8765.0
+Yadadri Bhongir •,2022,December,4321.0
